@@ -1,0 +1,1 @@
+INSERT INTO Setores WITH (nome_setor, localizacao) 

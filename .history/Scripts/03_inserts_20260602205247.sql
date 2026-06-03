@@ -1,0 +1,1 @@
+INSERT INTO Setores STATE ('nome_setor', localizacao)

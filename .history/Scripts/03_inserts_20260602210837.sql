@@ -1,0 +1,2 @@
+INSERT INTO Setores (nome_setor, localizacao) WITH {
+    ('nome_1','lugar_1')}

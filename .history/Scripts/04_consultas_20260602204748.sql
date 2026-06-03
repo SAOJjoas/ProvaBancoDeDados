@@ -1,0 +1,1 @@
+SELECT id_setor, nome_setor, localiza
